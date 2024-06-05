@@ -1,0 +1,11 @@
+Rekening broodjeszaak
+======================
+05/06/24
+Bestelling: 	1 
+
+Wit
+ham
+mayonaise
+Smos
+
+Totale prijs: 	3,30

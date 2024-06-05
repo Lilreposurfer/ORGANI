@@ -1,0 +1,10 @@
+Rekening broodjeszaak
+======================
+05/06/24
+Bestelling: 	2 
+
+bruin
+kaas
+ketchup
+
+Totale prijs: 	2,80
